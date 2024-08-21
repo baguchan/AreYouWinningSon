@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "baguchan.ayws.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "ayws.refmap.json",
+  "mixins": [
+    "VillagerGoalPackagesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
